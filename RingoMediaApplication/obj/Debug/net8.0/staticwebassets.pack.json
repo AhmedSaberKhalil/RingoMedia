@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RingoMediaApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RingoMediaApplication.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\Images\\020c7489-c455-418c-9ce4-7f5e9f193973_8ed1c8450e121ee8c92274c0c2bdc3ec.jpg",
+      "PackagePath": "staticwebassets\\Images\\020c7489-c455-418c-9ce4-7f5e9f193973_8ed1c8450e121ee8c92274c0c2bdc3ec.jpg"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\Images\\3145a23f-4545-41e3-8ce7-03088ee705a6_78138140_162840795107612_1002920540593192960_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\3145a23f-4545-41e3-8ce7-03088ee705a6_78138140_162840795107612_1002920540593192960_n.jpg"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\Images\\4c2e7953-75ed-4f3f-8b14-83b7947ae87e_78138140_162840795107612_1002920540593192960_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\4c2e7953-75ed-4f3f-8b14-83b7947ae87e_78138140_162840795107612_1002920540593192960_n.jpg"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\Images\\8490c29e-d943-45b2-9f13-83b5b42e8fd2_78954043_444934089729433_3954564620663914496_o.jpg",
+      "PackagePath": "staticwebassets\\Images\\8490c29e-d943-45b2-9f13-83b5b42e8fd2_78954043_444934089729433_3954564620663914496_o.jpg"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\Images\\a2ebb40e-bee6-4a16-ae2d-20d7c513b784_39de38f66ddfae0a950558883cb98852.jpg",
+      "PackagePath": "staticwebassets\\Images\\a2ebb40e-bee6-4a16-ae2d-20d7c513b784_39de38f66ddfae0a950558883cb98852.jpg"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\Images\\cd8df3d0-6d98-4393-bd55-02651022812f_78121539_3551786744846368_6713939052300599296_n.jpg",
+      "PackagePath": "staticwebassets\\Images\\cd8df3d0-6d98-4393-bd55-02651022812f_78121539_3551786744846368_6713939052300599296_n.jpg"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\Images\\d9d0a513-a26d-42d1-ab19-1ea121a032d8_39de38f66ddfae0a950558883cb98852.jpg",
+      "PackagePath": "staticwebassets\\Images\\d9d0a513-a26d-42d1-ab19-1ea121a032d8_39de38f66ddfae0a950558883cb98852.jpg"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\Images\\f4b24da3-8483-48b0-995e-dbdef0b0ca77_133563-”-Fall-in-love-...jpg",
+      "PackagePath": "staticwebassets\\Images\\f4b24da3-8483-48b0-995e-dbdef0b0ca77_133563-”-Fall-in-love-...jpg"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\.NET Core\\Asp.Net Core Web API\\RingoMediaApplication\\RingoMediaApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RingoMediaApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RingoMediaApplication.props",
+      "PackagePath": "build\\RingoMediaApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RingoMediaApplication.props",
+      "PackagePath": "buildMultiTargeting\\RingoMediaApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RingoMediaApplication.props",
+      "PackagePath": "buildTransitive\\RingoMediaApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

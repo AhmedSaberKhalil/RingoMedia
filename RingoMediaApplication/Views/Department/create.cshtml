@@ -1,0 +1,19 @@
+﻿
+
+<form asp-action="create" method="post" asp-controller="Department" enctype="multipart/form-data">
+
+    <div>
+        <label for="f">Image</label>
+        <input id="f" type="file" name="image" required />
+    </div>
+    <div>
+        <label for="uname">UserName</label>
+        <input id="uname" required type="text" name="Name" />
+    </div>
+    <div>
+        <label for="pid">ParentId</label>
+        <input id="pid" type="number" name="ParentDepartmentId" />
+    </div>
+    <input type="submit" value="create" />
+  
+</form>

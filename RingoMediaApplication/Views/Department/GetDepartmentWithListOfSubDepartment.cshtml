@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Department>
+
+<h1>View Sub-Departments</h1>
+<form asp-action="GetDepartmentWithListOfSubDepartment" method="get">
+    <div>
+        <label for="departmentId">Department ID:</label>
+        <input type="number" id="departmentId" name="departmentId" required />
+    </div>
+    <button type="submit">View Sub-Departments</button>
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <h2>Sub-Departments</h2>
+    <ul>
+        @foreach (var subDepartment in Model)
+        {
+            <li>@subDepartment.Name</li>
+        }
+    </ul>
+}

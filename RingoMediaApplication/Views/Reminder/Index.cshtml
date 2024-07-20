@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Reminder>
+<h1>Reminders</h1>
+<a href="/Reminder/Create">Create New Reminder</a>
+<ul>
+    @foreach (var reminder in Model)
+    {
+        <li>@reminder.Title - @reminder.DateTime</li>
+    }
+</ul>

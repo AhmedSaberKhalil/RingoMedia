@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Department>
+
+<h1>View Parent Departments</h1>
+<form asp-action="GetListOfAllParentDepartment" method="get">
+    <div>
+        <label for="departmentId">Department ID:</label>
+        <input type="number" id="departmentId" name="departmentId" required />
+    </div>
+    <button type="submit">View Parent Departments</button>
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <h2>Parent Departments</h2>
+    <ul>
+        @foreach (var parent in Model)
+        {
+            <li>@parent.Id - @parent.Name</li> 
+        }
+    </ul>
+}
+else
+{
+    <p>No parent departments found.</p>
+}
